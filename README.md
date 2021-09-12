@@ -1,6 +1,7 @@
 ## IBC-relayer-for-KiChain (KiChain + IBC Relayer <--> Umee)  
 ### In addition to the Ki node, you will need a Umee node on another server.  
 ##  
+## Connect to KiChain Server
 Change to `laddr = "tcp://127.0.0.1:26657"` in `/root/kichain/kid/config/config.toml` and restart the service  
 
 ```
